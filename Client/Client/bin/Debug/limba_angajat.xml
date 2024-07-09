@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<limbi>
+  <romana>
+    <proprietar>PROPRIETAR</proprietar>
+    <marca>MARCA</marca>
+    <culoare>CULOARE</culoare>
+    <combustibil>COMBUSTIBIL</combustibil>
+    <deconectare>DECONECTARE</deconectare>
+    <adaugare_autovehicul>Adăugare autovehicul</adaugare_autovehicul>
+    <actualizare_autovehicul>Actualizare autovehicul</actualizare_autovehicul>
+    <stergere_autovehicul>Ștergere autovehicul</stergere_autovehicul>
+    <tabel_proprietar>Tabel Proprietar</tabel_proprietar>
+    <tabel_marca>Tabel Marca</tabel_marca>
+    <tabel_culoare>Tabel Culoare</tabel_culoare>
+    <tabel_combustibil>Tabel Combustibil</tabel_combustibil>
+    <btnLista_Autovehicule>Lista autovehicule</btnLista_Autovehicule>
+    <lbCautare_Marca>Căutare după marca autovehicul</lbCautare_Marca>
+    <btnCauta>Caută</btnCauta>
+    <lbFiltre>Filtre</lbFiltre>
+    <cmbFiltre_proprietar>Proprietar</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Marca</cmbFiltre_marca>
+    <cmbFiltre_culoare>Culoare</cmbFiltre_culoare>
+    <btnFiltrare>Filtrare</btnFiltrare>
+  </romana>
+  <engleza>
+    <proprietar>OWNER</proprietar>
+    <marca>BRAND</marca>
+    <culoare>COLOR</culoare>
+    <combustibil>FUEL</combustibil>
+    <deconectare>LOGOUT</deconectare>
+    <adaugare_autovehicul>Add Vehicle</adaugare_autovehicul>
+    <actualizare_autovehicul>Update Vehicle</actualizare_autovehicul>
+    <stergere_autovehicul>Delete Vehicle</stergere_autovehicul>
+    <tabel_proprietar>Table Owner</tabel_proprietar>
+    <tabel_marca>Table Brand</tabel_marca>
+    <tabel_culoare>Table Color</tabel_culoare>
+    <tabel_combustibil>Table Fuel</tabel_combustibil>
+    <btnLista_Autovehicule>List of Vehicles</btnLista_Autovehicule>
+    <lbCautare_Marca>Search by vehicle brand</lbCautare_Marca>
+    <btnCauta>Search</btnCauta>
+    <lbFiltre>Filters</lbFiltre>
+    <cmbFiltre_proprietar>Owner</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Brand</cmbFiltre_marca>
+    <cmbFiltre_culoare>Color</cmbFiltre_culoare>
+    <btnFiltrare>Filter</btnFiltrare>
+  </engleza>
+  <italiana>
+    <proprietar>PROPRIETARIO</proprietar>
+    <marca>MARCHIO</marca>
+    <culoare>COLORE</culoare>
+    <combustibil>CARBURANTE</combustibil>
+    <deconectare>DISCONNESSIONE</deconectare>
+    <adaugare_autovehicul>Aggiungi veicolo</adaugare_autovehicul>
+    <actualizare_autovehicul>Aggiorna veicolo</actualizare_autovehicul>
+    <stergere_autovehicul>Elimina veicolo</stergere_autovehicul>
+    <tabel_proprietar>Tabella Proprietario</tabel_proprietar>
+    <tabel_marca>Tabella Marchio</tabel_marca>
+    <tabel_culoare>Tabella Colore</tabel_culoare>
+    <tabel_combustibil>Tabella Carburante</tabel_combustibil>
+    <btnLista_Autovehicule>Elenco dei veicoli</btnLista_Autovehicule>
+    <lbCautare_Marca>Cerca per marchio del veicolo</lbCautare_Marca>
+    <btnCauta>Cerca</btnCauta>
+    <lbFiltre>Filtri</lbFiltre>
+    <cmbFiltre_proprietar>Proprietario</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Marchio</cmbFiltre_marca>
+    <cmbFiltre_culoare>Colore</cmbFiltre_culoare>
+    <btnFiltrare>Filtrazione</btnFiltrare>
+  </italiana>
+</limbi>

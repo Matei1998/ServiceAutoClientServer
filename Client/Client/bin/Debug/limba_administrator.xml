@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<limbi>
+  <romana>
+	<id>ID</id>
+	<nume>NUME</nume>
+	<utilizator>UTILIZATOR</utilizator>
+  <parola>PAROLA</parola>
+  <rol>ROL</rol>
+  <cmbRol_angajat>Angajat</cmbRol_angajat>
+  <cmbRol_admin>Administrator</cmbRol_admin>
+  <cmbRol_manager>Manager</cmbRol_manager>
+  <filtrare_rol>Filtrare dupa rol</filtrare_rol>
+  <cmbFiltrare_Angajat>Angajat</cmbFiltrare_Angajat>
+  <cmbFiltrare_Admin>Administrator</cmbFiltrare_Admin>
+  <cmbFiltrare_Manager>Manager</cmbFiltrare_Manager>
+  <afis_lista>Afisare lista utilizatori</afis_lista>
+  <deconectare>Deconectare</deconectare>
+  <adaugare_utilizator>Adaugare Utilizator</adaugare_utilizator>
+  <actualizare_utilizator>Actualizare Utilizator</actualizare_utilizator>
+  <stergere_utilizator>Stergere Utilizator</stergere_utilizator>
+  <filtreaza>Filtreaza</filtreaza>
+  <tabel_id>ID</tabel_id>
+  <tabel_nume>Nume</tabel_nume>
+  <tabel_user>User</tabel_user>
+  <tabel_parola>Parola</tabel_parola>
+  <tabel_rol>Rol</tabel_rol>
+  </romana>
+  <engleza>
+    <id>ID</id>
+  	<nume>NAME</nume>
+  	<utilizator>USER</utilizator>
+    <parola>PASSWORD</parola>
+    <rol>ROLE</rol>
+    <cmbRol_angajat>Employee</cmbRol_angajat>
+    <cmbRol_admin>Administrator</cmbRol_admin>
+    <cmbRol_manager>Manager</cmbRol_manager>
+    <filtrare_rol>Filter by role</filtrare_rol>
+    <cmbFiltrare_Angajat>Employee</cmbFiltrare_Angajat>
+    <cmbFiltrare_Admin>Administrator</cmbFiltrare_Admin>
+    <cmbFiltrare_Manager>Manager</cmbFiltrare_Manager>
+    <afis_lista>User List</afis_lista>
+    <deconectare>Logout</deconectare>
+    <adaugare_utilizator>Add User</adaugare_utilizator>
+    <actualizare_utilizator>Update User</actualizare_utilizator>
+    <stergere_utilizator>Delete User</stergere_utilizator>
+    <filtreaza>Filter</filtreaza>
+    <tabel_id>ID</tabel_id>
+    <tabel_nume>Name</tabel_nume>
+    <tabel_user>User</tabel_user>
+    <tabel_parola>Password</tabel_parola>
+    <tabel_rol>Role</tabel_rol>
+  </engleza>
+  <italiana>
+    <id>ID</id>
+    <nume>NOME</nume>
+    <utilizator>UTILIZZATORE</utilizator>
+    <parola>PAROLA</parola>
+    <rol>RUOLO</rol>
+    <cmbRol_angajat>Impiegato</cmbRol_angajat>
+    <cmbRol_admin>Amministratore</cmbRol_admin>
+    <cmbRol_manager>Manager</cmbRol_manager>
+    <filtrare_rol>Filtra per ruolo</filtrare_rol>
+    <cmbFiltrare_Angajat>Impiegato</cmbFiltrare_Angajat>
+    <cmbFiltrare_Admin>Aministratore</cmbFiltrare_Admin>
+    <cmbFiltrare_Manager>Manager</cmbFiltrare_Manager>
+    <afis_lista>Visualizza l'elenco degli utenti</afis_lista>
+    <deconectare>Disconnessione</deconectare>
+    <adaugare_utilizator>Aggiungi utente</adaugare_utilizator>
+    <actualizare_utilizator>Aggiornamento utente</actualizare_utilizator>
+    <stergere_utilizator>Elimina utente</stergere_utilizator>
+    <filtreaza>Filtro</filtreaza>
+    <tabel_id>ID</tabel_id>
+    <tabel_nume>Nome</tabel_nume>
+    <tabel_user>Utente</tabel_user>
+    <tabel_parola>Parola</tabel_parola>
+    <tabel_rol>Ruolo</tabel_rol>
+  </italiana>
+</limbi>

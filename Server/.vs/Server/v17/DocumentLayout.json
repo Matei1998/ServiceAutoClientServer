@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\repositories\\utilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\repositories\\utilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\repositories\\autovehiculrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\repositories\\autovehiculrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\domain\\iutilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\iutilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\domain\\persoana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\persoana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|c:\\users\\40754\\desktop\\utcn\\semestrul 2\\ps\\proiect final ps\\server\\server\\domain\\iautovehiculrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\iautovehiculrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\domain\\autovehicul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\autovehicul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\domain\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\server\\domain\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5CBF9-4F8C-4A0A-8185-B083E24C81AA}|Server\\Server.csproj|solutionrelative:server\\domain\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:00:12.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUtilizatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\IUtilizatorRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\IUtilizatorRepository.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\IUtilizatorRepository.cs",
+              "RelativeToolTip": "Server\\Domain\\IUtilizatorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:07:59.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persoana.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Persoana.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\Persoana.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Persoana.cs",
+              "RelativeToolTip": "Server\\Domain\\Persoana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:11:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutovehiculRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Repositories\\AutovehiculRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\AutovehiculRepository.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Repositories\\AutovehiculRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\AutovehiculRepository.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAswJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:46:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilizatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Repositories\\UtilizatorRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\UtilizatorRepository.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Repositories\\UtilizatorRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\UtilizatorRepository.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwKMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:07:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutovehiculRepository.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\IAutovehiculRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\IAutovehiculRepository.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\IAutovehiculRepository.cs",
+              "RelativeToolTip": "Server\\Domain\\IAutovehiculRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:51:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autovehicul.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Autovehicul.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\Autovehicul.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Autovehicul.cs",
+              "RelativeToolTip": "Server\\Domain\\Autovehicul.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:41:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\App.config",
+              "RelativeDocumentMoniker": "Server\\App.config",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\App.config",
+              "RelativeToolTip": "Server\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T10:15:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proprietar.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Proprietar.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\Proprietar.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Proprietar.cs",
+              "RelativeToolTip": "Server\\Domain\\Proprietar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:11:21.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Utilizator.cs",
+              "RelativeDocumentMoniker": "Server\\Domain\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\40754\\Desktop\\UTCN\\Semestrul 2\\PS\\Proiect final PS\\Server\\Server\\Domain\\Utilizator.cs",
+              "RelativeToolTip": "Server\\Domain\\Utilizator.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:29:34.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

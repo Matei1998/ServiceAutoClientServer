@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<limbi>
+  <romana>
+	<user>UTILIZATOR</user>
+	<parola>PAROLA</parola>
+	<autentificare>Autentificare</autentificare>
+  <limba>Limba</limba>
+  </romana>
+  <engleza>
+	<user>USER</user>
+	<parola>PASSWORD</parola>
+	<autentificare>LOGIN</autentificare>
+  <limba>Language</limba>
+  </engleza>
+  <italiana>
+	<user>UTENTE</user>
+	<parola>PAROLA</parola>
+	<autentificare>Login</autentificare>
+    <limba>Lingua</limba>
+  </italiana>
+</limbi>

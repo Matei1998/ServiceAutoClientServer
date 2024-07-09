@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<limbi>
+  <romana>
+    <proprietar>PROPRIETAR</proprietar>
+    <marca>MARCA</marca>
+    <culoare>CULOARE</culoare>
+    <combustibil>COMBUSTIBIL</combustibil>
+    <deconectare>DECONECTARE</deconectare>
+    <adaugare_autovehicul>Adăugare autovehicul</adaugare_autovehicul>
+    <actualizare_autovehicul>Actualizare autovehicul</actualizare_autovehicul>
+    <stergere_autovehicul>Ștergere autovehicul</stergere_autovehicul>
+    <tabel_proprietar>Proprietar</tabel_proprietar>
+    <tabel_marca>Marca</tabel_marca>
+    <tabel_culoare>Culoare</tabel_culoare>
+    <tabel_combustibil>Combustibil</tabel_combustibil>
+    <btnSalvareCsvJson>Salvare fișier CSV și JSON</btnSalvareCsvJson>
+    <btnLista_Autovehicule>Lista autovehicule</btnLista_Autovehicule>
+    <lbSortare>Sortare</lbSortare>
+    <btnSortare>Sortare</btnSortare>
+    <cmbSortare_Cres_Marca>Sortare marca crescător</cmbSortare_Cres_Marca>
+    <cmbSortare_Desc_Marca>Sortare marca descrescător</cmbSortare_Desc_Marca>
+    <lbCautare_Marca>Căutare după marca autovehicul</lbCautare_Marca>
+    <btnCauta>Caută</btnCauta>
+    <checkboxStatistica>Statistică</checkboxStatistica>
+    <lbFiltre>Filtre</lbFiltre>
+    <cmbFiltre_proprietar>Proprietar</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Marca</cmbFiltre_marca>
+    <cmbFiltre_culoare>Culoare</cmbFiltre_culoare>
+    <btnFiltrare>Filtrare</btnFiltrare>
+    <lbCriteriu>Criteriu</lbCriteriu>
+    <cmbStatistica_Marca>Marca</cmbStatistica_Marca>
+    <cmbStatistica_Culoare>Culoare</cmbStatistica_Culoare>
+    <cmbStatistica_Combustibil>Combustibil</cmbStatistica_Combustibil>
+  </romana>
+  <engleza>
+    <proprietar>OWNER</proprietar>
+    <marca>BRAND</marca>
+    <culoare>COLOR</culoare>
+    <combustibil>FUEL</combustibil>
+    <deconectare>LOGOUT</deconectare>
+    <adaugare_autovehicul>Add Vehicle</adaugare_autovehicul>
+    <actualizare_autovehicul>Update Vehicle</actualizare_autovehicul>
+    <stergere_autovehicul>Delete Vehicle</stergere_autovehicul>
+    <tabel_proprietar>Owner</tabel_proprietar>
+    <tabel_marca>Brand</tabel_marca>
+    <tabel_culoare>Color</tabel_culoare>
+    <tabel_combustibil>Fuel</tabel_combustibil>
+    <btnSalvareCsvJson>Save CSV and JSON file</btnSalvareCsvJson>
+    <btnLista_Autovehicule>List of Vehicles</btnLista_Autovehicule>
+    <lbSortare>Sort</lbSortare>
+    <btnSortare>Sort</btnSortare>
+    <cmbSortare_Cres_Marca>Sort by brand ascending</cmbSortare_Cres_Marca>
+    <cmbSortare_Desc_Marca>Sort by brand descending</cmbSortare_Desc_Marca>
+    <lbCautare_Marca>Search by vehicle brand</lbCautare_Marca>
+    <btnCauta>Search</btnCauta>
+    <checkboxStatistica>Statistics</checkboxStatistica>
+    <lbFiltre>Filters</lbFiltre>
+    <cmbFiltre_proprietar>Owner</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Brand</cmbFiltre_marca>
+    <cmbFiltre_culoare>Color</cmbFiltre_culoare>
+    <btnFiltrare>Filter</btnFiltrare>
+    <lbCriteriu>Criterion</lbCriteriu>
+    <cmbStatistica_Marca>Brand</cmbStatistica_Marca>
+    <cmbStatistica_Culoare>Color</cmbStatistica_Culoare>
+    <cmbStatistica_Combustibil>Fuel</cmbStatistica_Combustibil>
+  </engleza>
+  <italiana>
+    <proprietar>PROPRIETARIO</proprietar>
+    <marca>MARCHIO</marca>
+    <culoare>COLORE</culoare>
+    <combustibil>CARBURANTE</combustibil>
+    <deconectare>DISCONNESSIONE</deconectare>
+    <adaugare_autovehicul>Aggiungi veicolo</adaugare_autovehicul>
+    <actualizare_autovehicul>Aggiorna veicolo</actualizare_autovehicul>
+    <stergere_autovehicul>Elimina veicolo</stergere_autovehicul>
+    <tabel_proprietar>Proprietario</tabel_proprietar>
+    <tabel_marca>Marchio</tabel_marca>
+    <tabel_culoare>Colore</tabel_culoare>
+    <tabel_combustibil>Carburante</tabel_combustibil>
+    <btnSalvareCsvJson>Salva file CSV e JSON</btnSalvareCsvJson>
+    <btnLista_Autovehicule>Elenco dei veicoli</btnLista_Autovehicule>
+    <lbSortare>Ordinare</lbSortare>
+    <btnSortare>Ordinare</btnSortare>
+    <cmbSortare_Cres_Marca>Ordina per marchio crescente</cmbSortare_Cres_Marca>
+    <cmbSortare_Desc_Marca>Ordina per marchio decrescente</cmbSortare_Desc_Marca>
+    <lbCautare_Marca>Cerca per marchio del veicolo</lbCautare_Marca>
+    <btnCauta>Cerca</btnCauta>
+    <checkboxStatistica>Statistiche</checkboxStatistica>
+    <lbFiltre>Filtri</lbFiltre>
+    <cmbFiltre_proprietar>Proprietario</cmbFiltre_proprietar>
+    <cmbFiltre_marca>Marchio</cmbFiltre_marca>
+    <cmbFiltre_culoare>Colore</cmbFiltre_culoare>
+    <btnFiltrare>Filtrazione</btnFiltrare>
+    <lbCriteriu>Criterio</lbCriteriu>
+    <cmbStatistica_Marca>Marchio</cmbStatistica_Marca>
+    <cmbStatistica_Culoare>Colore</cmbStatistica_Culoare>
+    <cmbStatistica_Combustibil>Carburante</cmbStatistica_Combustibil>
+  </italiana>
+</limbi>

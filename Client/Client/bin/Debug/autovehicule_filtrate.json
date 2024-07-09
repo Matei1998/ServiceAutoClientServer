@@ -1,0 +1,62 @@
+[
+  {
+    "Proprietar": "Andrei",
+    "Marca": "Audi",
+    "Culoare": "Negru",
+    "Combustibil": "Benzina"
+  },
+  {
+    "Proprietar": "Calin",
+    "Marca": "Lexus",
+    "Culoare": "Verde",
+    "Combustibil": "Hybrid"
+  },
+  {
+    "Proprietar": "ioan",
+    "Marca": "Audi",
+    "Culoare": "albastru",
+    "Combustibil": "Benzina"
+  },
+  {
+    "Proprietar": "ioan2",
+    "Marca": "bmw",
+    "Culoare": "albastru",
+    "Combustibil": "Benzina"
+  },
+  {
+    "Proprietar": "Ionel",
+    "Marca": "Dacia",
+    "Culoare": "Rosu",
+    "Combustibil": "Benzina"
+  },
+  {
+    "Proprietar": "Marin",
+    "Marca": "Mercedes-Benz",
+    "Culoare": "Negru",
+    "Combustibil": "Motorina"
+  },
+  {
+    "Proprietar": "matei",
+    "Marca": "bmw",
+    "Culoare": "albastru",
+    "Combustibil": "Motorina"
+  },
+  {
+    "Proprietar": "Matei",
+    "Marca": "bmw",
+    "Culoare": "albastru",
+    "Combustibil": "Motorina"
+  },
+  {
+    "Proprietar": "Radu",
+    "Marca": "Mazda",
+    "Culoare": "Gri",
+    "Combustibil": "Motorina"
+  },
+  {
+    "Proprietar": "Robert",
+    "Marca": "Toyota",
+    "Culoare": "Gri",
+    "Combustibil": "Hybrid"
+  }
+]
